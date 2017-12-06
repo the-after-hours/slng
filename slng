@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Bind search string to first argument.
 if [ -z "$1" ]; then
